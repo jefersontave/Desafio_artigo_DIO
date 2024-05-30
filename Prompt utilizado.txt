@@ -1,0 +1,19 @@
+Prompt usado:
+
+
+Comporte-se como um escritor de artigos de automações em python e escreva o artigo atendendo os comandos abaixo
+
+{REGRAS}
+
+>No máximo 5 linhas por bloco de explicação.
+
+>Me explique de maneira informal, como se eu fosse uma criança de 10 anos;
+
+>Os blocos que serão criados estão abaixo:
+
+- O que são automações de tarefas com python?
+- Quais são os benefícios?
+    - cite exemplos de automações;
+- **Principais tópicos para estudar automações com Python.**
+- Faça um call to action para o meu linkedin.
+- Coloque 3 hashtag que façam sentido
